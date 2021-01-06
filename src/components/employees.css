@@ -1,0 +1,20 @@
+button {
+    background-color: transparent!important;
+    border: 0em!important;
+    color:aqua!important;
+    font-size: x-small!important;
+}
+
+div {
+    background-color: aqua!important;
+}
+
+h1 {
+    color: rgb(46, 58, 58);
+}
+
+input {
+    background-color:rgb(46, 58, 58);
+    color: white!important;
+}
+
